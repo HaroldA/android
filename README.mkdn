@@ -9,7 +9,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/kazunari03/android.git -b los-15.0
+    repo init -u git://github.com/HaroldA/android.git -b los-15.0
 
 Then to sync up:
 
